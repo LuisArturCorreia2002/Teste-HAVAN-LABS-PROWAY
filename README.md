@@ -30,8 +30,6 @@ Exe: Google Chrome, Miscrosoft Edge, Safari, Mozila Firefox, etc.</p>
 
 <p>Quando você der um enter com seu teclado, você irá para dentro da pasta htdocs one você extraiu o projeto baixado. Agora é só você selecionar a pasta que corresponde ao projeto e testar.</p>
 
-<a href="Link para ver os testes unitário">Link da pasta no drive para ver os teste unitários</a>
-
 
 <h1>Link para baixar o Winrar e o zip</h1>
 <a href="https://www.winzip.com/win/bp/landing/download-winzip.html?gclid=CjwKCAjwtJ2FBhAuEiwAIKu19ow4cqQhvqmmvZUdYKv2WVnGZkzb5xb3MmrOa5S52oBVAn4QSJdCKhoCDIsQAvD_BwE">Link do ZIP: Alternativa WINRAR</a>
