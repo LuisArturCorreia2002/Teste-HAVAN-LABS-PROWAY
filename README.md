@@ -29,3 +29,5 @@ Exe: Google Chrome, Miscrosoft Edge, Safari, Mozila Firefox, etc.</p>
 <p>Com o navegador aberto digite na barra depsquisa por URL o seguinte: localhost.</p>
 
 <p>Quando você der um enter com seu teclado, você irá para dentro da pasta htdocs one você extraiu o projeto baixado. Agora é só você selecionar a pasta que corresponde ao projeto e testar.</p>
+
+<a href="Link para ver os testes unitário">Teste Unitários</a>
